@@ -1,10 +1,21 @@
+<div align="center">
+
+![StockScopeAI Banner](.github-banner.png)
+
 # StockScopeAI 📈
 
-A modern, AI-powered stock analysis platform for NSE (National Stock Exchange) stocks with real-time data, technical analysis, fundamental insights, and AI chat assistance.
+**AI-Powered Stock Analysis Platform for NSE Markets**
 
-![React](https://img.shields.io/badge/React-19.2.0-61DAFB?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-3178C6?logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.0-38B2AC?logo=tailwind-css)
+![React](https://img.shields.io/badge/React-19.2.0-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-3178C6?logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.0-38B2AC?logo=tailwind-css&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+</div>
+
+---
+
 
 ## 🌟 Features
 
